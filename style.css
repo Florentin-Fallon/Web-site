@@ -1,8 +1,14 @@
 body {
     background-color: black;
 }
-h4 {
+h2 {
+    color: white;
     text-align: center;
-    color: beige;
-    font-size: x-large;
+}
+list {
+    color: red;
+    text-decoration: none;
+}
+list a {
+    text-decoration: none;
 }
